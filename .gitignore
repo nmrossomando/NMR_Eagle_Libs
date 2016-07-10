@@ -1,0 +1,7 @@
+# Ignore all...
+*
+# ...Except actual Eagle libraries
+!*.lbr
+# ...oh, and the .gitignore and .git/!
+!.git*
+
