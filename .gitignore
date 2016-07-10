@@ -4,4 +4,6 @@
 !*.lbr
 # ...oh, and the .gitignore and .git/!
 !.git*
+# ...and I suppose the README...
+!*.MD
 
